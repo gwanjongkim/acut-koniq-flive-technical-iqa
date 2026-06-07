@@ -82,6 +82,6 @@ Related Repositories
 * A-CUT RGNet Mobile￼
 * A-CUT Mobile A-LAMP￼
 
-GitHub에서 붙여넣을 때는 README.md 파일 오른쪽 위의 연필 아이콘으로 편집하고, 기존 내용을 전부 지운 뒤 위 내용을 붙여넣으면 된다. 아래쪽 commit message는 예를 들어 이렇게 하면 된다.
+
 ```text
 docs: polish README formatting
