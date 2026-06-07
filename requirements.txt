@@ -1,0 +1,8 @@
+# minimal dependencies
+tensorflow
+torch
+torchvision
+numpy
+pillow
+pandas
+tqdm
